@@ -1,9 +1,8 @@
-"""Prose & Poetry Assistant.  Run with:  python -m streamlit run app.py"""
 import streamlit as st
 
 import rag
 
-st.set_page_config(page_title="Prose & Poetry Assistant", page_icon="📜", layout="centered")
+st.set_page_config(page_title="Summarizer", page_icon="📜", layout="centered")
 
 st.markdown("""
 <style>
@@ -16,7 +15,7 @@ div.stButton > button, div.stDownloadButton > button {border-radius: 12px;}
 .footer {text-align: center; opacity: .6; font-size: .85rem; margin-top: 2rem;}
 </style>
 <div class="hero">
-  <h1>📜 Prose &amp; Poetry Assistant</h1>
+  <h1>Summarizer</h1>
   <p>Share a poem or story and get a friendly summary,
      then ask questions about it.</p>
 </div>

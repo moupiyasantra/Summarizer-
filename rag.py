@@ -166,7 +166,7 @@ SUMMARY_STYLES = {
     "Themes & tone": "List the main themes, mood/tone, and the central message.",
     "Literary devices": "Identify notable literary devices (imagery, metaphor, rhyme, "
                         "structure, symbolism) with brief examples from the text.",
-    "Explain like I'm 12": "Explain what this text is about in very simple language.",
+    "Explain in easy words": "Explain what this text is about in very simple language.",
 }
 
 

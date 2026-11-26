@@ -2,7 +2,9 @@
 
 Summarize poems and prose, and ask questions about them, using open-source models that run locally.
 
-Tech stack
+Tech stack : 
+
+
 UI: Streamlit
 
 
